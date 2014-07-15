@@ -1,0 +1,12 @@
+c:\Users\macbookpro\documents\visual studio 2013\Projects\backpack\backpack\bin\backpack.dll.config
+c:\Users\macbookpro\documents\visual studio 2013\Projects\backpack\backpack\bin\backpack.dll
+c:\Users\macbookpro\documents\visual studio 2013\Projects\backpack\backpack\bin\backpack.pdb
+c:\Users\macbookpro\documents\visual studio 2013\Projects\backpack\backpack\obj\Debug\backpack.csprojResolveAssemblyReference.cache
+c:\Users\macbookpro\documents\visual studio 2013\Projects\backpack\backpack\obj\Debug\backpack.dll
+c:\Users\macbookpro\documents\visual studio 2013\Projects\backpack\backpack\obj\Debug\backpack.pdb
+C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\bin\backpack.dll.config
+C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\bin\backpack.dll
+C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\bin\backpack.pdb
+C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\obj\Debug\backpack.csprojResolveAssemblyReference.cache
+C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\obj\Debug\backpack.dll
+C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\obj\Debug\backpack.pdb
