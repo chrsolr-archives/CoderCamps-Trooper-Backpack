@@ -1,0 +1,62 @@
+﻿.jumbotron {
+    background-color: white;
+}
+
+.page-title {
+    font-family: 'lato-light', Arial;
+}
+
+.page-title small {
+    color: black;
+}
+
+.logo-image {
+    height: 100%;
+    max-height: 315px;
+    max-width: 400px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.row {
+    margin: 0;
+}
+
+.section-one {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px 40px 20px 40px;
+}
+
+.section-one h3, .section-two h3 {
+    font-family: 'lato-light', Arial;
+    text-transform: lowercase;
+}
+
+.section-two {
+    background-color: white;
+    color: black;
+    padding: 10px 40px 20px 40px;
+}
+
+footer {
+    margin: 20px 0 0 0;
+    padding: 0 40px;
+}
+
+/**********Typeface*************/
+@font-face {
+    font-family: 'lato-bold';
+    src: url('../Fonts/Lato-Bold.ttf?#iefix') format('truetype');
+}
+
+@font-face {
+    font-family: 'lato-regular';
+    src: url('../Fonts/Lato-Regular.ttf?#iefix') format('truetype');
+}
+
+@font-face {
+    font-family: 'lato-light';
+    src: url('../Fonts/Lato-Light.ttf?#iefix') format('truetype');
+}

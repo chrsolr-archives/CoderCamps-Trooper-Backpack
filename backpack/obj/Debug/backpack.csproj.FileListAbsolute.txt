@@ -10,3 +10,9 @@ C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\C
 C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\obj\Debug\backpack.csprojResolveAssemblyReference.cache
 C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\obj\Debug\backpack.dll
 C:\Users\MacBookPro\Documents\Visual Studio 2013\Projects\~GitHub_ericcarraway\CoderCampsTrooperBackpack\backpack\obj\Debug\backpack.pdb
+C:\Users\Twenty\Dropbox\Public\CoderCamps-Trooper-Backpack\backpack\bin\backpack.dll.config
+C:\Users\Twenty\Dropbox\Public\CoderCamps-Trooper-Backpack\backpack\bin\backpack.dll
+C:\Users\Twenty\Dropbox\Public\CoderCamps-Trooper-Backpack\backpack\bin\backpack.pdb
+C:\Users\Twenty\Dropbox\Public\CoderCamps-Trooper-Backpack\backpack\obj\Debug\backpack.csprojResolveAssemblyReference.cache
+C:\Users\Twenty\Dropbox\Public\CoderCamps-Trooper-Backpack\backpack\obj\Debug\backpack.dll
+C:\Users\Twenty\Dropbox\Public\CoderCamps-Trooper-Backpack\backpack\obj\Debug\backpack.pdb
